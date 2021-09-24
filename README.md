@@ -104,16 +104,16 @@ Each method *must* be implemented twice - once using only *extension methods* an
 
 ## Software Engineering
 
-### Exercise 1
+### Exercise 1 - Nicklas
 
 Research what a Kanban board is.  Possibly starting from [here](https://www.atlassian.com/agile/kanban/boards), acquire sufficient application domain knowledge to write two as-is scenarios that represent the main usage of a physical Kanban board within a software engineering team.  Note: make sure to cite your references in the submission document.  
 
-### Exercise 2
+### Exercise 2 - Fælles
 
 As a design activity (i.e., before writing the code): draw a class diagram representing your design of the entities for the C# part.  The purpose of the diagram should be to `sketch` the main relationships between the entities and their multiplicity.  To challenge yourselves, consider that often teams use the boards to also highlight task allocation (i.e., who is responsible for/will complete/has taken a card) and that nowadays pair programming or other group practices are used to implement code.  How would you model this feature?
 
 
-### Exercise 3
+### Exercise 3 - Nicklas
 
 1. The acronym FURPS+ stands for: F_____________; U_____________; R_____________; P_____________; S_____________; +_____________.
 1. The requirements engineering process is an iterative process that includes requirements ______________, ______________, and ______________.
@@ -123,25 +123,25 @@ As a design activity (i.e., before writing the code): draw a class diagram repre
 1. The output of the ______________ activity is the ______________, which include both the non-functional requirements and the functional model.
 
 
-### Exercise 4
+### Exercise 4 - Frederik
 
 1. What level of details should UML models have?
 2. What is the difference between structure diagrams and behavior diagrams in UML?  Provide two examples per category.
 
 
-### Exercise 5
+### Exercise 5 - Anne
 
 Consider a file system with a graphical user interface, such as Macintosh’s Finder, Microsoft’s Windows Explorer, or Linux’s KDE. The following objects were identified from a use case describing how to copy a file from a floppy disk to a hard disk: File, Icon, TrashCan, Folder, Disk, Pointer. Specify which are entity objects, which are boundary objects, and which are control (interactor) objects.
 
-### Exercise 6
+### Exercise 6 - Anne
 
 Assuming the same file system as before, consider a scenario consisting of selecting a file on a floppy, dragging it to Folder and releasing the mouse. Identify and define one control (interactor) object associated with this scenario.
 
-### Exercise 7
+### Exercise 7 - Anne
 
 Arrange the objects listed in Exercises SE.5-6 horizontally on a sequence diagram, the boundary objects to the left, then the control (interactor) object you identified, and finally, the entity objects. Draw the sequence of interactions resulting from dropping the file into a folder. For now, ignore the exceptional cases.
 
-### Exercise 8
+### Exercise 8 - Frederik
 
 From the sequence diagram Figure 2-34, draw the corresponding class diagram. Hint: Start with the participating objects in the sequence diagram.
 
